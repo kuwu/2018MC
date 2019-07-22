@@ -1,5 +1,5 @@
 # 2018MC
-***
+
 2D project working on the basic skills learned from fundamentals courses. Using Unity 2018.3.14f1
 ***
 Initial commit: </br>
